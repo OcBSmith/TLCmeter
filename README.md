@@ -31,3 +31,7 @@ OpenCV
 NumPy
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+
+The link is a compiled file that works on a PC with Windows. https://ouo.io/Yk647Y
